@@ -49,8 +49,7 @@
 
 ## 📊 GitHub Stats
 
-![Kairuu12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kairuu12&show_icons=true)
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kairuu12&show_icons=true&theme=tokyonight&cache_seconds=1800)---
 
 ## 📫 Connect With Me
 
