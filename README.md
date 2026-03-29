@@ -54,7 +54,7 @@
 
 ## 📫 Connect With Me
 
-* Email: (mailto:delossantos57@gmail.com)
+* Email: delossantos57@gmail.com
 * GitHub: https://github.com/Kairuu12
 
 ---
