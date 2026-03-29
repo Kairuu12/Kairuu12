@@ -49,14 +49,14 @@
 
 ## 📊 GitHub Stats
 
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Kairuu12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kairuu12\&show_icons=true)
 
 ---
 
 ## 📫 Connect With Me
 
-* Email: [your@email.com](mailto:your@email.com)
-* GitHub: https://github.com/YOUR_USERNAME
+* Email: [your@email.com](mailto:delossantos57@gmail.com)
+* GitHub: https://github.com/Kairuu12
 
 ---
 
