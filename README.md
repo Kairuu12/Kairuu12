@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-![Kairuu12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kairuu12\&show_icons=true)
+![Kairuu12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kairuu12\&show_icons=true)(https://github.com/Kairuu12/github-readme-stats)
 
 ---
 
