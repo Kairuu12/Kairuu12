@@ -49,8 +49,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kairuu12&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kairuu12&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kairuu12&theme=tokyonight)
 
 ## 📫 Connect With Me
